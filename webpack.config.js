@@ -1,6 +1,12 @@
 /**
  * Created by Jared on 16/1/6.
  */
+ 
+ 
+ 
+ 
+ 
+ 
 var path = require('path');
 var HtmlwebpackPlugin = require('html-webpack-plugin');
 var merage = require('webpack-merge');
